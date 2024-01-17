@@ -564,3 +564,5 @@ D:\VS\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Ra
 D:\VS\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\VS\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Microsoft.JSInterop.dll
 D:\VS\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs
+D:\VS\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Syncfusion.EJ2.dll
+D:\VS\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Syncfusion.Licensing.dll

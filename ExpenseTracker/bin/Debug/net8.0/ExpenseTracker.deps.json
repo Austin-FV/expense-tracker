@@ -42,6 +42,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.0",
+          "Syncfusion.EJ2.AspNet.Core": "24.1.46",
           "Microsoft.AspNetCore.Antiforgery": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.BearerToken": "8.0.0.0",
@@ -2233,6 +2234,32 @@
         },
         "compile": {
           "lib/netstandard2.0/NuGet.Versioning.dll": {}
+        }
+      },
+      "Syncfusion.EJ2.AspNet.Core/24.1.46": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "Syncfusion.Licensing": "24.1.46"
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.EJ2.dll": {
+            "assemblyVersion": "24.1.46.0",
+            "fileVersion": "24.1.46.0"
+          }
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.EJ2.dll": {}
+        }
+      },
+      "Syncfusion.Licensing/24.1.46": {
+        "runtime": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "24.1.46.0",
+            "fileVersion": "24.1.46.0"
+          }
+        },
+        "compile": {
+          "lib/net8.0/Syncfusion.Licensing.dll": {}
         }
       },
       "System.CodeDom/5.0.0": {
@@ -5268,6 +5295,20 @@
       "sha512": "sha512-T/igBDLXCd+pH3YTWgGVNvYSOwbwaT30NyyM9ONjvlHlmaUjKBJpr9kH0AeL+Ado4EJsBhU3qxXVc6lyrpRcMw==",
       "path": "nuget.versioning/6.3.1",
       "hashPath": "nuget.versioning.6.3.1.nupkg.sha512"
+    },
+    "Syncfusion.EJ2.AspNet.Core/24.1.46": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LUoKb3eoGxRxzDEQOSyF7jQhMXKxehqa+J1gJeGEeLwWrmpowlaXmlVhTVWrQkHIDmEEFCLx04aU4o/XTPZr3Q==",
+      "path": "syncfusion.ej2.aspnet.core/24.1.46",
+      "hashPath": "syncfusion.ej2.aspnet.core.24.1.46.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/24.1.46": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+XLF6WYosprxq8nSv4Dflk1qG5s8QkZhk3A3SrDMUQLfaAuUXgo7kXYjo3nJYKolkEeKgWK+opwQuEpz2hjjqQ==",
+      "path": "syncfusion.licensing/24.1.46",
+      "hashPath": "syncfusion.licensing.24.1.46.nupkg.sha512"
     },
     "System.CodeDom/5.0.0": {
       "type": "package",

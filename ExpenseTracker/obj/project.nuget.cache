@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WddjtzYP30gpnk5m81pQAfcE9ZukwZoFUMXanM0t6Q+jcQnr+tYPR/20BYH3cs3K/1DknhZSkmBoVwziICDwgQ==",
+  "dgSpecHash": "FrQB7bm1uSvzjTCXi7v1v5b6kVSg9mdiDy9HQwLQppAceySegom9QZssde9WjvEL/yTjQidJZ3dMFtEkmtJIDA==",
   "success": true,
   "projectFilePath": "D:\\VS\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
   "expectedPackageFiles": [
@@ -135,6 +135,8 @@
     "C:\\Users\\austi\\.nuget\\packages\\nuget.projectmodel\\6.3.1\\nuget.projectmodel.6.3.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\nuget.protocol\\6.3.1\\nuget.protocol.6.3.1.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\nuget.versioning\\6.3.1\\nuget.versioning.6.3.1.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\24.1.46\\syncfusion.ej2.aspnet.core.24.1.46.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\syncfusion.licensing\\24.1.46\\syncfusion.licensing.24.1.46.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\austi\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",
